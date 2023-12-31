@@ -50,4 +50,4 @@ def recommend_books():
     return render_template('recommend.html', data=data)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host="0.0.0.0",port=8000)
