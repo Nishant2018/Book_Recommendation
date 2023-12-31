@@ -1,4 +1,0 @@
-pandas==2.1.1
-numpy==1.24.2
-Flask==1.1.2
-gunicorn==20.0.4
