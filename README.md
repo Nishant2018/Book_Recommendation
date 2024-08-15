@@ -1,6 +1,6 @@
 **Deploying Book Recommendation System using Flask**   
 
-This project demonstrates the deployment of a Book Recommendation System using Flask API.
+This project demonstrates the deployment of a Book Recommendation System using Flask API.   
 
 **Prerequisites**
 
