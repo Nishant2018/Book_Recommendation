@@ -9,7 +9,7 @@ Ensure that you have the following packages installed:
 - pandas==2.2.1
 - scikit-learn==0.24.2    
 - numpy==1.24.3   
-- joblib==1.0.1
+- joblib==1.0.1  
 
 **Project Structure**
 
