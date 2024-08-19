@@ -10,7 +10,7 @@ Ensure that you have the following packages installed:
 - scikit-learn==0.24.2    
 - numpy==1.24.3       
 - joblib==1.0.1  
-
+   
 **Project Structure**
 
 This project consists of the following parts:
