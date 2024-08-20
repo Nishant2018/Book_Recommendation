@@ -6,7 +6,7 @@ This project demonstrates the deployment of a Book Recommendation System using F
 
 Ensure that you have the following packages installed:
 - Flask==2.0.0
-- pandas==2.2.1
+- pandas==2.2.1   
 - scikit-learn==0.24.2    
 - numpy==1.24.3       
 - joblib==1.0.1  
